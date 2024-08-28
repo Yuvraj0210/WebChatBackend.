@@ -1,6 +1,4 @@
-# BlabberBuzz
-
-![Project Screenshot](./picture1.png)
+# WebApp
 
 ## Tech Stack
 
